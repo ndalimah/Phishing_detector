@@ -1,8 +1,6 @@
-# Phishing_detector
 
-Basically detects possible phishing website URLs by implementing specific Integrity rules.
 
-## Simple Phishing Email Detector
+## Malware Sandbox
 
 This repository contains a small, rule-based phishing email detector implemented in `phishing_detector.py`.
 
