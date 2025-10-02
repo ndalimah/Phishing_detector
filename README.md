@@ -1,6 +1,6 @@
 # Phishing_detector
 
-Basically detects possible phishing website URLs to prevent phishing attempts.
+Basically detects possible phishing website URLs by implementing specific Integrity rules.
 
 ## Simple Phishing Email Detector
 
